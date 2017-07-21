@@ -1,0 +1,70 @@
+newmtl Face01
+d 1
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
+newmtl Face01_1
+d 1
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
+newmtl HEAD
+d 0
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
+newmtl HEAD_1
+d 0
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
+newmtl Helmet
+d 1
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
+newmtl Preview:1
+d 1
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
+newmtl Preview:2
+d 1
+Ns 0.941176
+Ni 0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+Km 0.0004
+map_Kd /Maps/DarthVaderTexture.jpg
+
